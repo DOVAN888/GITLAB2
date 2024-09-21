@@ -63,6 +63,8 @@ void SystemClock_Config(void);
 int main(void)
 {
 
+//	xxin chao cac ban
+
   /* USER CODE BEGIN 1 */
 
   /* USER CODE END 1 */
